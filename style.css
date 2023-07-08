@@ -41,7 +41,7 @@ nav{
     color: #181818;
     font-size: 45px;
     font-weight: 800;
-    margin-left: 5%;
+    margin-left: 7%;
 }
 
 nav > ul{
@@ -51,7 +51,7 @@ nav > ul{
 }
 nav li{
     text-decoration: none;
-    margin-right: 50px;
+    margin-right: 60px;
     list-style: none;
 }
 
@@ -64,9 +64,9 @@ nav a{
 
 .header{
     background-color: #fff8f3;
-    background-image: url(images/header_bg.png);
+    background-image: url(images/header_bg.png), url(images/developer.png);
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, top left;
 }
 
 .banner{
